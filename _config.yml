@@ -1,1 +1,7 @@
-markdown_ext: "markdown,mkdown,mkdn,mkd,md,html"
+markdown_ext: "md,html"
+exclude: 
+  - docker-compose.yml
+  - Gemfile
+  - Gemfile.lock
+  - jekyll.sh
+  - README.md
