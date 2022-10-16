@@ -4,10 +4,10 @@ services:
     image: jekyll/jekyll:3.8.6
     environment:
       - JEKYLL_ENV=development
-    command: bundle exec jekyll serve --watch --incremental --config _config-dev.yml --host 0.0.0.0
+    command: jekyll serve --livereload --incremental
     ports:
       - 4000:4000
       - 35729:35729
     volumes:
-      - .:/srv/jekyll:cached
-      #- ./vendor/bundle:/usr/local/bundle:cached
+      - .:/srv/jekyll:Z
+      - ./vendor/bundle:/usr/local/bundle:cached
