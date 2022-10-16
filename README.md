@@ -1,1 +1,5 @@
-# smx-8-jekyll
+# Jekyll
+
+```sh
+$ docker-compose up -d
+```
