@@ -1,6 +1,6 @@
 #!/bin/bash
 
-init() {
+run() {
     touch Gemfile.lock
     chmod a+w Gemfile.lock
 
