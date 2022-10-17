@@ -11,8 +11,8 @@ init() {
 }
 
 case $1 in 
-    init)
-        init
+    run)
+        run
     ;;
     *)
         echo "Usage: $0 init"
