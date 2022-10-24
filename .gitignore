@@ -1,4 +1,4 @@
 /_site
-/vendor
+/_bundle
 .jekyll-metadata
 #Gemfile.lock
