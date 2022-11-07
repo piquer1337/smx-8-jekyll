@@ -3,7 +3,17 @@ h1{
     font-size:40px;
     background-color: purple;
 }
+h2{
+color:orange;
 
+
+}
+
+h2+p{
+
+    background-color: bisque;
+    color:brown
+}
 
 
 
