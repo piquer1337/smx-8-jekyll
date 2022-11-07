@@ -13,15 +13,15 @@ h2+p{
 
     background-color: bisque;
     color:brown;
-    padding: 25;
+    padding: 25px;
     
 }
 
-p{
+.p azul{
     background-color: aqua;
     color:blue;
     padding: 23px;
-    margin-left: 10px;
+    margin-left: 20px;
 }
 
 
