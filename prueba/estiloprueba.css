@@ -1,27 +1,36 @@
 h1{
+    color:blue;
+
+
+}
+
+
+
+p{
+    color:grey;
+
+
+
+}
+.poeta{
+    background-color: orange;
     color:white;
-    font-size:40px;
-    background-color: purple;
+    margin-left:20px;
 }
 h2{
-color:orange;
 
-
-}
-
-h2+p{
-
-    background-color: bisque;
-    color:brown;
-    padding: 25px;
-    
-}
-
-.azul{
-    background-color: aqua;
     color:blue;
-    padding: 23px;
-    margin-left: 20px;
+}
+
+li{
+    background-color: aqua;
+
+
+}
+
+li a{
+    color: blue;
+
 }
 
 
