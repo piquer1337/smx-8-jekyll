@@ -9,9 +9,15 @@ list-style-type: space-counter;
 
 }
 
-h1 + p em{
-color:brown
+.special {
 
+    color:red;
+}
 
+p{
+
+color:blue;
 
 }
+
+
