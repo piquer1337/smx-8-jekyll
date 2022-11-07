@@ -1,22 +1,7 @@
 h1{
-    color:red;
+    color:white;
     font-size:40px;
-}
-p strong{
-
-
-    color:orange;
-}
-
-li strong{
-
-color:orange;
-
-}
-
-.special{
-    color:purple;
-
+    background-color: purple;
 }
 
 
