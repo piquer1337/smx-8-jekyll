@@ -12,13 +12,15 @@ color:orange;
 h2+p{
 
     background-color: bisque;
-    color:brown
+    color:brown;
+    padding: 25;
+    
 }
 
 p{
     background-color: aqua;
     color:blue;
-
+    padding: 23px;
 }
 
 
