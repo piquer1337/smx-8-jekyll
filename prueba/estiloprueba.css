@@ -1,23 +1,25 @@
 h1{
-
-    color:blue;
-}
-
-li{
-
-list-style-type: space-counter;
-
-}
-
-.special {
-
     color:red;
+    font-size:40px;
+}
+p strong{
+
+
+    color:orange;
 }
 
-p{
+li strong{
 
-color:blue;
+color:orange;
 
 }
+
+.special{
+    color:purple;
+
+}
+
+
+
 
 
