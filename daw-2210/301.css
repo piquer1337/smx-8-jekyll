@@ -12,6 +12,6 @@
 }
 .borderojo{
     border-color: red;
-
+    <span class="border border-danger"></span>
 
 }
